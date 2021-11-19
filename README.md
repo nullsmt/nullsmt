@@ -1,6 +1,6 @@
 THIS IS NOT PRODUCTION READY AND SHOULD NOT BE USED IN ANY WAY IN PRODUCTION.
 
-[DoubleOrNothing](https://jiang-yifan.github.io) is a coin flip game built on Thunder.
+nullsmtd is a coin flip game built on Thunder.
 
 # Getting Started
 
