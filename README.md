@@ -1,6 +1,6 @@
 THIS IS NOT PRODUCTION READY AND SHOULD NOT BE USED IN ANY WAY IN PRODUCTION.
 
-nullsmtd is a coin flip game built on Thunder.
+nullsmt is a coin flip game built on Thunder.
 
 # Getting Started
 
